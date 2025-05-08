@@ -1,0 +1,24 @@
+# WordPressのコアファイル
+/wordpress/
+
+# 設定ファイル
+wp-config.php
+
+# アップロードされたファイル
+wp-content/uploads/
+
+# キャッシュファイル
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+
+# ログファイル
+*.log
+
+# 環境設定ファイル
+.env
+.env.*
+
+# システムファイル
+.DS_Store
+Thumbs.db 
