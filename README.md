@@ -1,4 +1,4 @@
-# WordPress 初心者ガイド
+# WordPress 初心者ガイド (忘れないためのMemo)
 
 ## 目次
 1. [WordPressの種類](#wordpressの種類)
